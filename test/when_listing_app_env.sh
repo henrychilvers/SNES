@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# setup (test) config file...
+# add app1/stage values...
+
+../snes.js list app1 stage

@@ -1,0 +1,26 @@
+[
+  {
+    "application": "app1",
+    "environment": "int",
+    "key": "QlJ1MmF5ZWN1UXVtdXdlU3dVdHV6dWJV",
+    "iv": "bGV0c3Rlc3RpbnN0YWdl"
+  },
+  {
+    "application": "app1",
+    "environment": "qat",
+    "key": "3n3ldobnbenewd0wkdkg",
+    "iv": "nvhf20dk200AosNS"
+  },
+  {
+    "application": "app1",
+    "environment": "prd",
+    "key": "NE2ndp2049dkslsoembL02L",
+    "iv": "0IndjWLmab302bee01Api"
+  },
+  {
+    "application": "app2",
+    "environment": "prd",
+    "key": "MeJJ2048Lam!ndtE99L",
+    "iv": "fVCrr9204kdioLQW32"
+  }
+]

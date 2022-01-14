@@ -1,3 +1,7 @@
+#NOTE: Your config values will be stored in plain text,
+#   so it is recommended that you do not commit this file to any non-private code repository!
+snes_config.json
+
 # Logs
 logs
 *.log

@@ -1,0 +1,30 @@
+{
+  "name": "snes",
+  "version": "1.0.0",
+  "description": "CLI using NodeJS to encrypt and decrypt strings",
+  "main": "snes.js",
+  "type": "module",
+  "bin": {
+    "snes": "./snes.js"
+  },
+  "scripts": {
+    "install": "bash ./snes_init.sh",
+    "test": "jest"
+  },
+  "author": "Henry Chilvers <cliffjumper2015-github@yahoo.com>",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henrychilvers/SNES.git"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "crypto-js": "^4.1.1",
+    "prompt": "^1.2.0",
+    "config": "^3.3.6"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "jest": "^27.4.3"
+  }
+}
