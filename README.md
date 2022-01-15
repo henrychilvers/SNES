@@ -1,12 +1,15 @@
-<h1>
+<!-- <h1>
   <img src="https://i.redd.it/e05fskad5x321.png" style="border: 1px solid #000; max-width:128px; max-height:64px;" />
   SNES - Simple Node Encryptor/Decrypter of Strings
-</h1>
-[![GitHub Stars](https://img.shields.io/github/stars/henrychilvers/SNES.svg](https://github.com/henrychilvers/SNES/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/henrychilvers/SNES.svg)](https://github.com/henrychilvers/SNES/issues)
-[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/henrychilvers/SNES)
+</h1> -->
 
-SNES is a bash command line utility for encrypting and decrypting strings for use in your various applications. Allows for specifying multiple applications and multiple environments in order to encourage you to use different passwords/keys/secrets per application per environment.
+# SNES - Simple Node Encrypter/Decrypter of Strings
+[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/henrychilvers/SNES)
+[![GitHub Stars](https://img.shields.io/github/stars/henrychilvers/SNES.svg)](https://github.com/henrychilvers/SNES/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/henrychilvers/SNES.svg)](https://github.com/henrychilvers/SNES/issues)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
+SNES is a command line utility for encrypting and decrypting strings for use in your various applications. Allows for specifying multiple applications and multiple environments in order to encourage you to use different passwords/keys/secrets per application per environment.
 
 This was born out of a need to manage encrypted secrets for about a half dozen different applications, each with 4 environments (Dev, QA, Stage, and Prod).
 

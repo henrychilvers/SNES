@@ -1,6 +1,6 @@
 {
   "name": "snes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI using NodeJS to encrypt and decrypt strings",
   "main": "snes.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "snes": "./snes.js"
   },
   "scripts": {
-    "install": "bash ./snes_init.sh",
+    "install": "sh ./snes_init.sh",
     "test": "jest"
   },
   "author": "Henry Chilvers <cliffjumper2015-github@yahoo.com>",
